@@ -1,0 +1,13 @@
+Virtual Reality-test homepage
+
+Framework : React
+React-Framework : Vite.js
+Package-lib : Lucide React
+CSS-Framework-Util : Tailwind.css
+Animation-lib : Framer Motion
+Component-Util : Acernity UI
+Google-Font : Poppins
+
+path-sourcecode : https://github.com/kushald/virtualr
+assets-source : https://github.com/kushald/virtualr
+
